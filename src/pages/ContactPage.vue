@@ -19,17 +19,17 @@
 
         <p>
           📍 <strong>Alamat</strong><br>
-          Jl. Pendidikan No. 1, Soreang, Kab. Bandung
+          Jl. gading No. 1, Soreang, Kab. Bandung
         </p>
 
         <p>
           📞 <strong>Telepon</strong><br>
-          (022) 123-4567
+          (022) 08***
         </p>
 
         <p>
           ✉️ <strong>Email</strong><br>
-          yadika@smk.sch.id
+          smk@yadika.sch.id
         </p>
 
       </div>
@@ -53,7 +53,7 @@
 
           <input
             type="email"
-            placeholder="email@contoh.com"
+            placeholder="ProjectMoon@gmail.com"
           >
 
 

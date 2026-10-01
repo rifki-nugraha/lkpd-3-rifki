@@ -37,20 +37,20 @@
       <div class="team-list">
 
         <div class="team-card">
-          <div class="avatar">A</div>
-          <h3>Ahmad</h3>
+          <div class="avatar">F</div>
+          <h3>Faust</h3>
           <p>Ketua Tim</p>
         </div>
 
         <div class="team-card">
-          <div class="avatar">S</div>
-          <h3>Siti</h3>
+          <div class="avatar">G</div>
+          <h3>Gregor</h3>
           <p>Desain UI</p>
         </div>
 
         <div class="team-card">
           <div class="avatar">R</div>
-          <h3>Rian</h3>
+          <h3>Ryoshu</h3>
           <p>Programmer</p>
         </div>
 
